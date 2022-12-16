@@ -1,7 +1,5 @@
-# pokedex
+# Projeto desenvolvido no bootcamp da DIO
 
-Projeto desenvolvido no bootcamp da DIO
-
-Consumindo API.
+Integração com PokeAPI. 
 
 ![IMAGEM DO PROJETO](/img/tela.jpg)
